@@ -1,4 +1,5 @@
 const box = document.querySelector('.box')
+const input = document.querySelector('.form-control')
 
 
 const API = 'https://restcountries.com/v3.1/all';
