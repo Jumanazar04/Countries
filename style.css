@@ -9,6 +9,8 @@
 
 body {
     font-family: Onest;
+    padding: 10px;
+    
 }
 
 nav {
@@ -19,4 +21,25 @@ nav {
 
 header {
     padding: 40px 60px;
+}
+
+.card1 {
+    width: 230px;
+    padding: 10px;
+    display: inline-block;
+}
+.flag-img{
+    width: 200px;
+    height: 170px;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+p{
+    margin-bottom: 2px;
+}
+.bolder-text{
+    font-weight: 600;
 }
